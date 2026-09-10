@@ -28,8 +28,8 @@
 
                 <group name="LOGGING">
                     <group name="IMMEDIATE">
-                        <param name="emitRXDOTXoverflow">       false       </param>
-                        <param name="emitPERIODoverflow">       false       </param>
+                        <param name="emitRXDOTXoverflow">       true       </param>
+                        <param name="emitPERIODoverflow">       true       </param>
                     </group>
                     <group name="PERIODIC">
                         <param name="period">                   0.0         </param>
